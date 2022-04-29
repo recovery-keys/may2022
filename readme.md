@@ -27,6 +27,10 @@
 
 > for i in {88..98}; do openssl rand -base64 32 > $i.key; done
 
+### Backup locations:
+https://bitbucket.org/teta2064/may2022/
+https://github.com/recovery-keys/may2022
+https://gitlab.com/recovery-keys/may2022
 
 ### Tools
 
