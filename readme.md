@@ -35,3 +35,5 @@
 - duplicity
 - aws
 - bitwardan
+
+![alt text](https://raw.githubusercontent.com/recovery-keys/may2022/may2022/30-may-2022_flow.drawio.png)
